@@ -1,14 +1,14 @@
 # Hi there, I'm Muhammad Agus Saputra! 👋
 
-🎓 **College Student**  
+**College Student**  
 I'm currently studying Informatics Engineering at East Borneo Muhammadiyah University.
 
-## 👨‍💻 About Me
-- 🔍 Interested in **UI/UX Design**, **Web/App Development**, and **Data Analysis**
+## About Me
+- 🔍 Interested in **UI/UX Design** and **Web/App Development**
 - 💡 I love creating seamless user experiences and visually appealing designs.
 - 💻 Enjoy exploring the world of frontend development, though I also appreciate the fullstack journey!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 📝 Languages
 <p>
@@ -27,7 +27,6 @@ I'm currently studying Informatics Engineering at East Borneo Muhammadiyah Unive
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
@@ -36,13 +35,13 @@ I'm currently studying Informatics Engineering at East Borneo Muhammadiyah Unive
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-## 📂 Featured Project
+## Featured Project
 
 ### [med-9](https://github.com/muhgussap17/med-9)
 My current project focuses on [briefly describe the objective or goal of med-9, if you want].  
 Check it out for more details!
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://www.instagram.com/muhgussap"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
